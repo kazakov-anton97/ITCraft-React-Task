@@ -1,0 +1,50 @@
+header {
+  background: #e5e5e5;
+  padding: 30px 0;
+}
+
+.basket {
+  display: inline-block;
+  float: right;
+  margin-right: 50px;
+}
+
+.basket img { margin-right: 10px; }
+
+a, span { text-decoration: none; }
+
+.form {
+  margin: 10vh auto;
+  width: 600px;
+}
+
+.outerwear { 
+	display: flex;
+	margin-top: 45px;
+	padding-bottom: 120px;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.product {
+	width: 320px;
+	height: 200px;
+}
+
+.photo_item {
+	width: 253px;
+	height: 200px;
+	border: 1px solid #e5e5e5;
+	margin: 0 auto;
+}
+
+.name {
+	font-weight: 600;
+	margin: 10px 0;
+}
+
+.add_btn {
+	width: 200px;
+	margin-top: 50px;
+	position: relative;
+}
